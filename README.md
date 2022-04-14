@@ -1,2 +1,2 @@
-# Exercicio01
-Trabalho com a linguagem de programação Java usando tipos primitivos, array e estruturas condicionais.
+# Aprender Java
+Aprendizagem da linguagem de programação Java.
